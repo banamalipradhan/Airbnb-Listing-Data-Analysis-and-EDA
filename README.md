@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="cover page/Airbnb_cover_page.png" width="800" alt="Airbnb Listing Data Analysis & EDA">
+</p>
 
 
 
@@ -75,3 +77,7 @@ These findings can be used to optimize listing visibility and pricing strategy.
 
 
 
+## Author
+**Banamali Pradhan** — Aspiring Data Analyst  
+Transitioning from Pharmaceutical Industry to Data Analytics  
+[LinkedIn Profile](https://www.linkedin.com/in/banamali-pradhan)
